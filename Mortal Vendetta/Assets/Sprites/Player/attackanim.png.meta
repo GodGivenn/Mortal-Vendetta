@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 98a4eeecd73136845b79a6fd992d2b31
+guid: 2f0b637af5468634b8daed90ab0a74e0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5529052351011714392
-    second: woman_fall_spritesheet_0
+      213: 4359273850398970229
+    second: attackanim_0
   - first:
-      213: -2022927457427576333
-    second: woman_fall_spritesheet_1
+      213: -3862992958062698320
+    second: attackanim_1
   - first:
-      213: 4058817323105650479
-    second: woman_fall_spritesheet_2
-  - first:
-      213: -3042978804098111645
-    second: woman_fall_spritesheet_3
+      213: -332097518507540055
+    second: attackanim_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -76,7 +73,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -88,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,7 +97,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -111,7 +108,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woman_fall_spritesheet_0
+      name: attackanim_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,20 +116,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 9, y: 0, z: 0, w: 10}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aa88615e2cd443b0800000000000000
-      internalID: -5529052351011714392
+      spriteID: 5711ea378704f7c30800000000000000
+      internalID: 4359273850398970229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woman_fall_spritesheet_1
+      name: attackanim_1
       rect:
         serializedVersion: 2
         x: 32
@@ -140,20 +137,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f925a5023e1de3e0800000000000000
-      internalID: -2022927457427576333
+      spriteID: 0b066d42f54e36ac0800000000000000
+      internalID: -3862992958062698320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woman_fall_spritesheet_2
+      name: attackanim_2
       rect:
         serializedVersion: 2
         x: 64
@@ -161,35 +158,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f270aefc9d0d35830800000000000000
-      internalID: 4058817323105650479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woman_fall_spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36760ba66ea25c5d0800000000000000
-      internalID: -3042978804098111645
+      spriteID: 9a1c1920117246bf0800000000000000
+      internalID: -332097518507540055
       vertices: []
       indices: 
       edges: []
